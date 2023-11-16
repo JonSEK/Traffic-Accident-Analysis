@@ -45,3 +45,6 @@ Using Microsoft Excel, 12,601 rows of raw traffic accident data was analyzed and
 1. All the age of the users that were involved in the accidents were divided into age group with 5 years a group starting from 0 to 100. 
 2. Headings for the rows are the age group and heading for the column is number of accidents. 
 3. `COUNTIFS` function was used to extract the data into the table.
+
+## Summary
+Analyzing a decade of data reveals key trends: 2010 had the most accidents (1,353), while 2018 had the least (1,135). Peak monthly accidents occurred in November 2011, and the lowest was in February 2017. Most accidents happened between 15:00 to 17:59, often involving multiple crashes, and 18:00 to 20:59 for pedestrian incidents. About 73% of those involved were male, mostly drivers and motorcyclists. 2012 saw the highest heavy vehicle accidents, particularly articulated trucks. Rigid truck incidents peaked in 2017 and 2019, with the highest bus involvement in 2017. Ages 20 to 24 had the most accidents (1,446 cases).
